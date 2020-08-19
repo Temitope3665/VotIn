@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">VotIn</string>
+    <string name="how_it_works">How it Works</string>
+    <string name="welcome">Welcome!</string>
+    <string name="make_it_easier_to_connect">Make it easier to connect you\nand your colleagues and not only\nthat, new friends of in common.</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="library">Library</string>
+    <string name="have_easy_access_to_textbooks">Have easy access to textbooks\nand also resources that can\nbe useful to you.</string>
+    <string name="online_storage">Online Storage</string>
+    <string name="get_to_have_store_to_keep">Get to have store to keep some\nof your resources so as to\nnot loose them.</string>
+    <string name="welcome_back">Welcome\nBack!</string>
+    <string name="email_vot_pin">Email/ VOT Pin</string>
+    <string name="login">Login</string>
+    <string name="or_via_social_media">or via social media</string>
+    <string name="welcome_to_votln">Welcome to\nVotln</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign In</string>
+    <string name="forget_password">Forgot\nPassword</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="send_email">Send Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full name</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="email">Email</string>
+    <string name="passwoord">Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chats">Chats</string>
+    <string name="search">Search</string>
+    <string name="phoebe">Phoebe</string>
+    <string name="hey">Hey</string>
+</resources>
